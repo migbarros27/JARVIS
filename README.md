@@ -1,4 +1,4 @@
-# _Não decidi o nome ainda - Usando o README como diário_
+# _Jarvis - Usando o README como diário_
 Data de Começo: 06/02/2026
 
 Basicamente esse repositório é uma tentativa de criar uma IA no estilo do JARVIS do filme Homem de Ferro. Inicialmente o plano é integrar IA de forma que auxilie no cotidiano de forma que futuramente possa ser integrados em projetos de IOT.
@@ -12,4 +12,5 @@ Pretendo começar com a captura de áudio (audioCapture), tive alguns problemas 
 
 26/02/2026
 Funciona, mas ainda não tem nada de IA mesmo, somente um simples assistente que faz funções básicas. Agora vou tentar implementar um pouco mais de "dinâmica", "pessoalidade" e independência nele, mas sei la bora.
+
 Pedi para o GPT analisar o básico e ele indicou novamente o vosk como um meio offline, logo estou dando mais uma chance e está indo bem, não testei fielmente mas pela a lógica funcionará, depois irei ver a do site: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/ , o gemini o adicionou na lista então acho que verificar mais um pouco possa ajudar. Além do mais hoje eu pretendo lançar o repositório(dia 02/03)
